@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+pyodbc
+pyarrow
+openpyxl
+python-dateutil
