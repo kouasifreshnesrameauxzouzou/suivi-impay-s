@@ -1,0 +1,20 @@
+# ── Secrets Streamlit (ne jamais commiter les mots de passe)
+.streamlit/secrets.toml
+
+# ── Données locales (fichiers lourds générés par l'app)
+NSIA_Impayes_BASE.parquet
+NSIA_Impayes_META.json
+
+# ── Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# ── Système
+.DS_Store
+Thumbs.db
